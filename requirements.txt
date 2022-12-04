@@ -1,6 +1,2 @@
-os
-sqlite3
-termcolor
-prettytable
-collections
-
+prettytable==3.5.0
+termcolor==2.1.1
