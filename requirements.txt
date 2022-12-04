@@ -1,0 +1,6 @@
+os
+sqlite3
+termcolor
+prettytable
+collections
+
