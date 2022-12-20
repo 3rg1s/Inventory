@@ -104,7 +104,7 @@ while True:
     # Add Multiple items given the value and times
     elif choice == "5":
         item_value = input("Enter the item value: ")
-        times = input("How many times do you want this to be added: ")
+        times = int(input("How many times do you want this to be added: "))
         multiple(item_value, times)
     # Exit the program
     elif choice == "6":
